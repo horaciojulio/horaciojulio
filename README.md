@@ -1,60 +1,92 @@
 <div align="center">
 
-# Julio Cezar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Julio%20Cezar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-**Estudante de Análise e Desenvolvimento de Sistemas**
-
-`C` · `Python` · `HTML` · `CSS` · `Git`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo+C+e+Python;Construindo+meus+primeiros+projetos" />
 
 <br>
 
-<a href="https://github.com/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+
+</div>
+
+---
+
+## Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+
+💻 Atualmente estudando **C, Python, HTML e CSS**
+
+🚀 Utilizando projetos práticos para desenvolver minhas habilidades e evoluir na programação.
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## Atualmente estudando
+
+```text
+C              ███████░░░  Lógica e fundamentos
+Python         ██████░░░░  Programação
+HTML / CSS     █████░░░░░  Desenvolvimento Web
+Git / GitHub   ████░░░░░░  Controle de versão
+Banco de dados ███░░░░░░░  Fundamentos
+```
+
+---
+
+## Projetos
+
+<div align="center">
+
+<a href="https://github.com/SEU-USUARIO/sistema-loja-python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=sistema-loja-python&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
-### Sobre mim
+## GitHub Stats
 
-Estou iniciando minha jornada na área de tecnologia e atualmente curso **Análise e Desenvolvimento de Sistemas**.
+<div align="center">
 
-Meu foco neste momento é construir uma base sólida em programação, desenvolvendo projetos e colocando em prática tudo o que venho aprendendo.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-### Stack
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 
-```text
-Linguagens       C · Python
-Web              HTML · CSS
-Ferramentas      Git · GitHub · VS Code
-Estudos          Lógica · Banco de Dados
-```
-
-### Projetos
-
-**[Sistema de Gerenciamento de Loja](https://github.com/SEU-USUARIO)**
-Sistema em Python para gerenciamento de produtos, estoque e vendas.
-
-**[Projetos em C](https://github.com/SEU-USUARIO)**
-Exercícios e projetos desenvolvidos durante meus estudos de programação.
-
-**[Projetos Web](https://github.com/SEU-USUARIO)**
-Projetos desenvolvidos durante meus estudos de HTML e CSS.
+</div>
 
 ---
 
 <div align="center">
 
-### Atualmente
+### 🐍 Contribution Graph
 
-`Aprendendo` → `Praticando` → `Construindo`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=555555&label=VISITAS" />
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+
+<br><br>
+
+**`Learn. Build. Improve.`**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
