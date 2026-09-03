@@ -1,55 +1,92 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Julio%20Cezar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo+C+e+Python;Construindo+meus+primeiros+projetos" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+
+</div>
+
 ---
 
-## 🚀 Projetos
+## Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+
+💻 Atualmente estudando **C, Python, HTML e CSS**
+
+🚀 Utilizando projetos práticos para desenvolver minhas habilidades e evoluir na programação.
+
+---
+
+## Tecnologias
 
 <div align="center">
 
-<a href="https://github.com/horaciojulio?tab=repositories">
-  <img src="https://img.shields.io/badge/VER%20MEUS%20PROJETOS-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## Atualmente estudando
+
+```text
+C              ███████░░░  Lógica e fundamentos
+Python         ██████░░░░  Programação
+HTML / CSS     █████░░░░░  Desenvolvimento Web
+Git / GitHub   ████░░░░░░  Controle de versão
+Banco de dados ███░░░░░░░  Fundamentos
+```
+
+---
+
+## Projetos
+
+<div align="center">
+
+<a href="https://github.com/SEU-USUARIO/sistema-loja-python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=sistema-loja-python&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-<br>
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=horaciojulio&repo=sistema-loja-python&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub
+<div align="center">
+
+### 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=horaciojulio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciojulio&layout=compact&theme=tokyonight&hide_border=true" />
+**`Learn. Build. Improve.`**
 
 </div>
 
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/horaciojulio/horaciojulio/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Learn.;Build.;Improve.;Repeat." />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=horaciojulio&style=flat-square&color=2563EB&label=VISITAS" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
