@@ -1,77 +1,42 @@
+## 🚀 Projetos
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Julio%20Cezar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<a href="https://github.com/SEU-USUARIO?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo+C+e+Python;Construindo+meus+primeiros+projetos" />
+</div>
 
 <br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-
-</div>
-
----
-
-## Sobre mim
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-
-💻 Atualmente estudando **C, Python, HTML e CSS**
-
-🚀 Utilizando projetos práticos para desenvolver minhas habilidades e evoluir na programação.
-
----
-
-## Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
-
-</div>
-
----
-
-## Atualmente estudando
-
-```text
-C              ███████░░░  Lógica e fundamentos
-Python         ██████░░░░  Programação
-HTML / CSS     █████░░░░░  Desenvolvimento Web
-Git / GitHub   ████░░░░░░  Controle de versão
-Banco de dados ███░░░░░░░  Fundamentos
-```
-
----
-
-## Projetos
 
 <div align="center">
 
 <a href="https://github.com/SEU-USUARIO/sistema-loja-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=sistema-loja-python&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=sistema-loja-python&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🐍 Contribuições
 
-### 🐍 Contribution Graph
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
 
@@ -81,12 +46,7 @@ Banco de dados ███░░░░░░░  Fundamentos
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
-
-<br><br>
-
-**`Learn. Build. Improve.`**
+### `Learn. Build. Improve.`
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
