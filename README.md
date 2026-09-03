@@ -41,3 +41,8 @@ Python         ██████░░░░  Programação
 HTML / CSS     █████░░░░░  Desenvolvimento Web
 Git / GitHub   ████░░░░░░  Controle de versão
 Banco de dados ███░░░░░░░  Fundamentos
+
+<div align="center"> <a href="https://github.com/horaciojulio/sistema-loja-python"> <img src="https://img.shields.io/badge/🛒%20Sistema%20de%20Loja-Python-2563EB?style=for-the-badge" /> </a>
+
+
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=horaciojulio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciojulio&layout=compact&theme=tokyonight&hide_border=true" /> </div>
