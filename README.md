@@ -30,9 +30,6 @@
 
 ---
 
-### 💫 Sobre Mim
-
-```javascript
 const horacioJulio = {
     code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
     technologies: {
