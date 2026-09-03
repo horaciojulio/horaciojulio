@@ -62,13 +62,15 @@ Banco de dados ███░░░░░░░  Fundamentos
 </div>
 
 <div align="center">
-🐍 Contribution Graph
-<img src="https://raw.githubusercontent.com/horaciojulio/horaciojulio/output/github-contribution-grid-snake-dark.svg" /> </div>
+## GitHub Stats
 
-div align="center"> <img src="https://komarev.com/ghpvc/?username=horaciojulio&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+<div align="center">
 
-<br><br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=horaciojulio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciojulio&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 Learn. Build. Improve.
 
 </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/> ```
