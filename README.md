@@ -7,7 +7,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/horaciojulio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/julio-cezar-oliveira-horácio-641a9a411)
 
 </div>
 
@@ -45,20 +45,23 @@ Banco de dados ███░░░░░░░  Fundamentos
 
 ---
 
+---
+
 ## 🚀 Projetos
 
 <div align="center">
 
-<a href="https://github.com/horaciojulio/sistema-loja-python">
-  🛒 <b>Sistema de Loja em Python</b>
+<a href="https://github.com/horaciojulio/Projetos">
+  🚀 <b>Projetos</b>
 </a>
 
 <br><br>
 
-<a href="https://github.com/horaciojulio">
-  🔗 <b>Ver todos os meus projetos</b>
+<a href="https://github.com/horaciojulio/Projetos/blob/main/sistema-gerenciamento-loja.py">
+  🛒 <b>Sistema de Gerenciamento de Loja em Python</b>
 </a>
 
+</div>
 </div>
 
 <br><br>
