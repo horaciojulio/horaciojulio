@@ -6,14 +6,14 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/horaciojulio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
@@ -23,7 +23,7 @@
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 
 ```text
 C              ███████░░░  Lógica e fundamentos
@@ -41,52 +41,3 @@ Python         ██████░░░░  Programação
 HTML / CSS     █████░░░░░  Desenvolvimento Web
 Git / GitHub   ████░░░░░░  Controle de versão
 Banco de dados ███░░░░░░░  Fundamentos
-```
-
----
-
-## Projetos
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO/sistema-loja-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=sistema-loja-python&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
-
-<br><br>
-
-**`Learn. Build. Improve.`**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
