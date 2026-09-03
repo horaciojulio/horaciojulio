@@ -11,12 +11,12 @@
 
   <br />
 
-  <!-- GIF Animado de Boas-Vindas / Coding -->
+  <!-- GIF Animado de Programação -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzZXV2dnI2bmJldGtzNDc2bnY1bmpscm8zcXkzd3p2NHZpZWVpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4VAnEPXf/giphy.gif" width="380" alt="Coding GIF" />
 
   <br /><br />
 
-  <!-- Badges de Redes Sociais / Contato -->
+  <!-- Badges de Redes Sociais -->
   <a href="https://www.linkedin.com/in/seu-usuario">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
