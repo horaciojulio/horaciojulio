@@ -66,11 +66,6 @@ Banco de dados ███░░░░░░░  Fundamentos
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=horaciojulio&style=flat-square&label=PROFILE+VIEWS" />
-
-<br><br>
-
-**`Learn. Build. Improve.`**
-
 </div>
 
 </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/> ```
