@@ -52,7 +52,7 @@ Banco de dados ███░░░░░░░  Fundamentos
 <div align="center">
 
 <a href="https://github.com/horaciojulio/Projetos">
-  🚀 <b>Projetos</b>
+  🚀 <b> Todos Projetos </b>
 </a>
 
 <br><br>
