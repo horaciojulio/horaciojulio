@@ -62,13 +62,12 @@ Banco de dados ███░░░░░░░  Fundamentos
 </div>
 
 <div align="center">
-## GitHub Stats
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=horaciojulio&style=flat-square&label=PROFILE+VIEWS" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=horaciojulio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciojulio&layout=compact&theme=tokyonight&hide_border=true" />
+**`Learn. Build. Improve.`**
 
 </div>
 Learn. Build. Improve.
